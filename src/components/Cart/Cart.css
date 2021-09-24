@@ -1,0 +1,11 @@
+.order{
+    text-align: center;
+}
+.btn-regular{
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 1px solid #a88734;
+    border-radius: 5px;
+    cursor: pointer;
+}
